@@ -12,9 +12,9 @@ const cesta = {
     detalhes: {
       nome: "Cesta de Verduras",
       logoFazenda: logo,
-      nomeFazenda: "Jenny Jack Farm",
+      nomeFazenda: "Fazenda Recanto Feliz",
       descricao: "Uma cesta com produtos selecionados cuidadosamente da fazenda diretamente para a sua cozinha!",
-      preco: "R$ 40,00",
+      preco: "R$ 45,00",
       botao: "Comprar",
     },
     itens: {
