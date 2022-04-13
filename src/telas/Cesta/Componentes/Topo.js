@@ -22,7 +22,7 @@ const estilos = StyleSheet.create({
         width: "100%",
         position: 'absolute',
         textAlign: "center",
-        fontSize: 26,
+        fontSize: 35,
         color: "white",
         fontWeight: "bold",
         padding: 25
